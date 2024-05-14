@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hal00sh
 - 👀 I’m interested in Data Analysis and Web Developing
 - 🌱 I’m currently learning web development and ready to work in data analysis
-- 📫 Reach to me on discord @peperomia4006
+- 📫 Reach to me on my gmail hala.prestations@gmail.com
 
 <!---
 hal00sh/hal00sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
