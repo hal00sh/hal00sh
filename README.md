@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hal00sh
-- 👀 I’m interested in Data Analysis and Web Developing
-- 🌱 I’m currently learning web development and ready to work in data analysis
+- 👀 I’m interested in Data Analysis and Security Testing
+- 🌱 I’m currently learning Security and ready to work in data analysis
 - 📫 Reach to me on my gmail hala.prestations@gmail.com
 
 <!---
